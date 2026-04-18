@@ -36,6 +36,12 @@ Simulates real-world incident management system used in:
 - NOC (Network Operations Center)
 - IT Support teams
 - ServiceNow environments
+  
+## Features Demonstration
+
+- Create Ticket → Assign priority (P1–P4)
+- Update Ticket → Change status (Open → In Progress → Closed)
+- View Tickets → Track all incidents
 
 ---
 
