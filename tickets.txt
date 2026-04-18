@@ -1,0 +1,3 @@
+INC001 | Server Down | P1 | Open
+INC002 | High CPU Usage | P2 | Open
+INC003 | Disk Space Warning | P3 | Closed
